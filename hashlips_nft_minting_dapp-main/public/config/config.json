@@ -8,7 +8,7 @@
   },
   "NFT_NAME": "Karma cats",
   "SYMBOL": "Karma cat NFT",
-  "MAX_SUPPLY": 35464,
+  "MAX_SUPPLY": 5555,
   "WEI_COST": 33000000000000000,
   "DISPLAY_COST": 0.033,
   "GAS_LIMIT": 285000,
